@@ -1,0 +1,9 @@
+Link of the repository created: 
+
+https://github.com/thedreamender/exam-ase2223-559080.git
+
+Commands used at point 5:
+
+1. docker buildx build .
+2. docker tag sha256:1c2dc1190e50afadf71dbc0be6a09a3272450d76e0944fa4245118abba94117f june-exam
+3. docker run june-exam

@@ -7,3 +7,5 @@ Commands used at point 5:
 1. docker buildx build .
 2. docker tag sha256:1c2dc1190e50afadf71dbc0be6a09a3272450d76e0944fa4245118abba94117f june-exam
 3. docker run june-exam
+
+NOTE: in the step 2., the first argument for the "docker tag" command was obtained from the log resulting from the execution of command at step 1. (see screenshot1.png)

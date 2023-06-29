@@ -9,3 +9,5 @@ Commands used at point 5:
 3. docker run june-exam
 
 NOTE: in the step 2., the first argument for the "docker tag" command was obtained from the log resulting from the execution of command at step 1. (see screenshot1.png)
+
+And finally, as requested by the 5th point of the EXAM B, the result as in screenshot2.png!
